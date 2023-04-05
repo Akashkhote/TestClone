@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<head>
+    <title>My First Page</title>
+</head>
+
+<body>
+    <center>
+    <h1> This is Heading </h1>
+    <h2> This is Heading </h2>
+    <h3> This is Heading </h3>
+    <h4> This is Heading </h4>
+    <h5> This is Heading </h5>
+    </center>
+<hr>
+
+    <p> 
+       <b> I am writing to apply for the position of Manual Test Engineer at Codebrik Solutions LLP</b>,<i> As a recent graduate with a degree in Agricultural Engineering, I am excited to begin my career in software testing and believe that this role would be a great fit for my skills and interests.
+        I am writing to apply for the position of Manual Test Engineer at Codebrik Solutions LLP,</i> <small> As a recent graduate with a degree in Agricultural Engineering, I am excited to begin my career in software testing and believe that this role would be a great fit for my skills and interests.
+        I am writing to apply for the position of Manual Test Engineer at Codebrik Solutions LLP,</small> <b> As a recent graduate with a degree in Agricultural Engineering, I am excited to begin my career in software testing and believe that this role would be a great fit for my skills and interests.</b>
+
+        <hr>
+        <center>
+        <div>
+            <input type="text" value="1">
+            <input type="text" value="2">
+        </div>
+        <div>
+            <input type="text" value="3">
+            <input type="text" value="4">
+        </div>
+        </center>
+
+    </p>
+    <hr>
+    <ul type="A">
+        <li>Sugar</li>
+        <li>Tea</li>
+        <li>GraoundNits</li>
+        <li>Oil</li>
+        <li>Salt</li>
+        <li>Ketchp</li>
+
+    </ul>
+    </body>
+    </html>
