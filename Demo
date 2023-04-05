@@ -23,5 +23,24 @@
         <li>Ketchp</li>
 
     </ul>
+    
+    <p> 
+       <b> I am writing to apply for the position of Manual Test Engineer at Codebrik Solutions LLP</b>,<i> As a recent graduate with a degree in Agricultural Engineering, I am excited to begin my career in software testing and believe that this role would be a great fit for my skills and interests.
+        I am writing to apply for the position of Manual Test Engineer at Codebrik Solutions LLP,</i> <small> As a recent graduate with a degree in Agricultural Engineering, I am excited to begin my career in software testing and believe that this role would be a great fit for my skills and interests.
+        I am writing to apply for the position of Manual Test Engineer at Codebrik Solutions LLP,</small> <b> As a recent graduate with a degree in Agricultural Engineering, I am excited to begin my career in software testing and believe that this role would be a great fit for my skills and interests.</b>
+
+        <hr>
+        <center>
+        <div>
+            <input type="text" value="1">
+            <input type="text" value="2">
+        </div>
+        <div>
+            <input type="text" value="3">
+            <input type="text" value="4">
+        </div>
+        </center>
+
+    </p>
     </body>
     </html>
